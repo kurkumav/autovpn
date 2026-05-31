@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoVPN</string>
+    <string name="accessibility_service_description">Отслеживает запуск приложений для автоматической активации VPN</string>
+    <string name="add_app">Добавить приложение</string>
+    <string name="monitored_apps">Отслеживаемые приложения</string>
+    <string name="vpn_client">VPN клиент</string>
+    <string name="select_vpn_client">Выберите VPN клиент</string>
+    <string name="enable_service">Включить службу</string>
+    <string name="service_disabled">Служба отключена</string>
+    <string name="service_enabled">Служба включена</string>
+</resources>
