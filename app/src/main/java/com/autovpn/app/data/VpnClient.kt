@@ -11,7 +11,7 @@ object VpnClients {
         VpnClient(
             name = "Outline",
             packageName = "org.outline.android.client",
-            startAction = "org.outline.android.client.CONNECT"
+            startAction = null
         ),
         VpnClient(
             name = "Hiddify",
