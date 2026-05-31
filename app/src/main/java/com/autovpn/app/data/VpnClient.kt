@@ -9,6 +9,11 @@ data class VpnClient(
 object VpnClients {
     val SUPPORTED_CLIENTS = listOf(
         VpnClient(
+            name = "Outline",
+            packageName = "org.outline.android.client",
+            startAction = "org.outline.android.client.CONNECT"
+        ),
+        VpnClient(
             name = "Hiddify",
             packageName = "com.hiddify.app",
             startAction = "com.hiddify.app.START_VPN"
